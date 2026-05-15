@@ -1,10 +1,10 @@
 # Tech Docs Template Documentation
 
-This repository was previously used to generate the [documentation website for the Tech Docs Template][tdt-docs]. Following the decommissioning of PaaS that site is no longer live. The documentation remains available in this git repository, although it is no longer maintained.
+This repository was previously used to generate the [old documentation website for the Tech Docs Template][tdt-docs]. Following the decommissioning of PaaS that site is no longer live, but this codebase deploys to a similar [documentation website on Github Pages][tdt-ghp]. The documentation remains available in this git repository, although it is no longer maintained.
 
 ## Publishing changes
 
-GitHub Actions automatically publishes changes merged into the main branch of this repository.
+GitHub Actions automatically publishes changes merged into the main branch of this repository to the [Tech Docs Template documentation site on GIthub Pages][tdt-ghp].
 
 ## Code of conduct
 
@@ -17,3 +17,4 @@ Unless stated otherwise, the codebase is released under the [MIT License](LICENS
 The documentation is [© Crown copyright](http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/crown-copyright/) and available under the terms of the [Open Government 3.0 licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 [tdt-docs]: https://tdt-documentation.london.cloudapps.digital
+[tdt-ghp]: https://alphagov.github.io/tdt-documentation/
