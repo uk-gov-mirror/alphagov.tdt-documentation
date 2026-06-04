@@ -1,6 +1,6 @@
 # Tech Docs Template Documentation
 
-This repository was previously used to generate the [old documentation website for the Tech Docs Template][tdt-docs]. Following the decommissioning of PaaS that site is no longer live, but this codebase deploys to a similar [documentation website on Github Pages][tdt-ghp]. The documentation remains available in this git repository, although it is no longer maintained.
+This repository was previously used to generate the [old documentation website for the Tech Docs Template][tdt-docs]. Following the decommissioning of PaaS that site is no longer live, but this codebase deploys to a similar [documentation website on GitHub Pages][tdt-ghp]. The documentation remains available in this git repository, although it is no longer maintained.
 
 ## Publishing changes
 
