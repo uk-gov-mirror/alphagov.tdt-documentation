@@ -4,7 +4,7 @@ This repository was previously used to generate the [old documentation website f
 
 ## Publishing changes
 
-GitHub Actions automatically publishes changes merged into the main branch of this repository to the [Tech Docs Template documentation site on GIthub Pages][tdt-ghp].
+GitHub Actions automatically publishes changes merged into the main branch of this repository to the [Tech Docs Template documentation site on GitHub Pages][tdt-ghp].
 
 ## Code of conduct
 
