@@ -1,10 +1,10 @@
 # Tech Docs Template Documentation
 
-This repository was previously used to generate the [old documentation website for the Tech Docs Template][tdt-docs]. Following the decommissioning of PaaS that site is no longer live, but this codebase deploys to a similar [documentation website on GitHub Pages][tdt-ghp]. The documentation remains available in this git repository, although it is no longer maintained.
+This repository was previously used to generate the [old documentation website for the Tech Docs Template][tdt-docs]. Following the decommissioning of PaaS that site is no longer live.
 
-## Publishing changes
+The documentation is now part of the [tech-docs-gem](https://github.com/alphagov/tech-docs-gem/tree/main/documentation) repository, where it is published to https://alphagov.github.io/tech-docs-gem/.
 
-GitHub Actions automatically publishes changes merged into the main branch of this repository to the [Tech Docs Template documentation site on GitHub Pages][tdt-ghp].
+This repository is no longer maintained
 
 ## Code of conduct
 
